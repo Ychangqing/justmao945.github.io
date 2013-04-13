@@ -1,5 +1,5 @@
 <!doctype html>
 <script>
-  var id = parseInt(location.pathname.substring(1))
+  var id = parseInt(location.search.substring(1))
   location.replace('https://github.com/justmao945/justmao945.github.io/issues' + (id ? '/' + id : '?labels=blog'))
 </script>
