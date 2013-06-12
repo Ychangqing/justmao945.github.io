@@ -1,4 +1,4 @@
-Github pages
+HOME
 =============
 [justmao945.github.io][1]
 
